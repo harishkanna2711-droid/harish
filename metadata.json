@@ -1,0 +1,8 @@
+{
+  "name": "WasteAI Studio",
+  "description": "A SaaS platform for intelligent waste management, featuring AI-driven route optimization, real-time bin monitoring, and operational analytics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
